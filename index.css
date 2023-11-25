@@ -1,0 +1,14 @@
+.contenido{
+    display: flex;
+    background-color: rgb(192, 128, 251);
+    justify-content: space-evenly;
+    border-radius: 15px;
+    border: rgb(182, 25, 182) 3.5px solid;
+    padding: 30px;
+}
+.contenido > div {
+    border: black 3.5px solid;
+    padding: 10px;
+    background-color: grey;
+    border-radius: 5px;
+}
